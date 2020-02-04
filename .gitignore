@@ -41,3 +41,7 @@ pipeline-build-config.json
 /.idea/
 /.idea/
 /.idea/
+
+.settings/
+.vscode/
+.DS_Store
